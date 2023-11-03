@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @Ahmadrahman252
-- 👀 I'am interested in coding because I want to see the progress of information technology ...
-- 🌱 I’m currently learning python and other programing langguage slebew
+- 👀 "Saya adalah penguasa hidup sendiri, tak tergantung pada siapa pun."
+- 🌱 "Seratus adalah angka, tapi dalam pertemanan, kita selalu satu. Pinjamlah 100 dengan percaya, kita akan selalu bersama dalam suka dan duka."
 - 💞️ I’m looking to collaborate on bjorka
 - 📫 How to reach me, only god know
-- print("hello Tech World, Im Begin")
+- 👍 "Tak membutuhkan keramaian, saya menemukan kebahagiaan dalam kesendirian."
+
+
+
+
 
 <!---
 Ahmadrahman252/Ahmadrahman252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
