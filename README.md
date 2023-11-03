@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmadrahman252
+- 👋 Halo Saya Ahmad Rahman, Panggil Aja Rahman
 - 👀 "Saya adalah penguasa hidup sendiri, tak tergantung pada siapa pun."
 - 🌱 "Seratus adalah angka, tapi dalam pertemanan, kita selalu satu. Pinjamlah 100 dengan percaya, kita akan selalu bersama dalam suka dan duka."
 - 💞️ I’m looking to collaborate on bjorka
